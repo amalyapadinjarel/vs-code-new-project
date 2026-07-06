@@ -1,0 +1,23 @@
+body{
+    background-color:skyblue;
+    
+}
+h1{
+    text-align: center;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    font-size: large;
+}
+#submit{
+    font-size: large;
+    background-color: blueviolet;
+    color: aliceblue;
+}
+p{
+ font-size:xx-large;  
+ color: brown; 
+ font-style: italic;
+ text-align: center;
+}
