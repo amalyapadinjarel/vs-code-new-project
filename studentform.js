@@ -300,15 +300,18 @@ class Name{
     constructor(fname,lname){
         this.fname=fname;
         this.lname=lname;
-        this.fname=fname;
-        this.lname=lname;
     }
     fullname(){
         return this.fname + " " + this.lname;
     }
 }
 const fullname1=new Name("Amalya", "Joy");
+const fullname2=new Name("Sruthy", "Shaji");
+const fullname3=new Name("Anna", "Scaria");
 console.log(fullname1.fullname());
+console.log(fullname2.fullname());
+console.log(fullname3.fullname());
+
 
 
 
