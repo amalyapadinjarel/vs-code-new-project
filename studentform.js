@@ -308,10 +308,11 @@ class Name{
 const fullname1=new Name("Amalya", "Joy");
 const fullname2=new Name("Sruthy", "Shaji");
 const fullname3=new Name("Anna", "Scaria");
+const fullname4=new Name("Christopher", "John");
 console.log(fullname1.fullname());
 console.log(fullname2.fullname());
 console.log(fullname3.fullname());
-
+console.log(fullname4.fullname());
 
 
 
