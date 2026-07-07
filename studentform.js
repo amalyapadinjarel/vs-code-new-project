@@ -318,6 +318,10 @@ console.log(fullname1.fullname());
 console.log(fullname2.fullname());
 console.log(fullname3.fullname());
 console.log(fullname4.fullname());
+// wwwwwwwwwwwwwwwwwwwwwwwww
+console.log(fullname2.fullname());
+console.log(fullname3.fullname());
+console.log(fullname4.fullname());
 
 
 
