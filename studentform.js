@@ -313,6 +313,11 @@ console.log(fullname1.fullname());
 console.log(fullname2.fullname());
 console.log(fullname3.fullname());
 console.log(fullname4.fullname());
+// wwwwwwwwwwwwwwwwwwwwwwwwww
+console.log(fullname1.fullname());
+console.log(fullname2.fullname());
+console.log(fullname3.fullname());
+console.log(fullname4.fullname());
 
 
 
