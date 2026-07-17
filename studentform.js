@@ -1,4 +1,4 @@
-/*function vote()
+function vote()
 {
 
     let country = document.getElementById("country").value;
@@ -12,7 +12,7 @@
     {
         document.getElementById("display").innerHTML = "Not Eligible to vote";
     }
-}*/
+}
 
 /*const vote = () => 
 {
@@ -296,7 +296,7 @@ const student2=new Student("Sruthy", 22,"Bcom");
 console.log(student1);
 console.log(student2);*/
 
-class Name{
+/*class Name{
     constructor(fname,lname){
         this.fname=fname;
         this.lname=lname;
@@ -313,6 +313,15 @@ console.log(fullname1.fullname());
 console.log(fullname2.fullname());
 console.log(fullname3.fullname());
 console.log(fullname4.fullname());
+// wwwwwwwwwwwwwwwwwwwwwwwwww
+console.log(fullname1.fullname());
+console.log(fullname2.fullname());
+console.log(fullname3.fullname());
+console.log(fullname4.fullname());
+// wwwwwwwwwwwwwwwwwwwwwwwww
+console.log(fullname2.fullname());
+console.log(fullname3.fullname());
+console.log(fullname4.fullname());*/
 
 
 
