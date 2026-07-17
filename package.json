@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "studentform.js",
-  "scripts": {},
+  "scripts": {
+    "start": "npx http-server"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amalyapadinjarel/vs-code-new-project.git"
